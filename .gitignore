@@ -1,0 +1,8 @@
+# Folders
+app/
+img/
+build/*
+
+#Files
+ARCHITECTURE_AND_INTERNALS.md
+
