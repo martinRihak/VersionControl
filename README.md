@@ -2,8 +2,6 @@
 
 Jednoduchý systém pro správu verzí (klon Gitu) napsaný v C++20 s využitím knihoven **OpenSSL** (SHA-1 hashování) a **zlib** (komprese objektů).
 
-Podrobnější technický popis fungování a nízkoúrovňových detailů najdete v souboru [ARCHITECTURE_AND_INTERNALS.md](ARCHITECTURE_AND_INTERNALS.md).
-
 ---
 
 ## 🛠 Požadavky a sestavení
